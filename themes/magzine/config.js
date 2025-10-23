@@ -7,7 +7,7 @@ const CONFIG = {
 
   MAGZINE_HOME_HIDDEN_CATEGORY: '分享杂文', //不希望在首页展示的文章分类，用英文逗号隔开
 
-  MAGZINE_HOME_TITLE: '爱旅游，详实真实的旅游分享',
+  MAGZINE_HOME_TITLE: '爱旅游，详尽真实的旅游分享',
   MAGZINE_HOME_DESCRIPTION:
     '跨越时空，和古人对话，赶快开启你的山西古建筑之旅！',
   MAGZINE_HOME_TIPS: '无须为旅行规划发愁，爱旅游来了！',
