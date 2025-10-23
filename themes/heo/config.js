@@ -20,7 +20,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '山西古建专题',
   HEO_HERO_TITLE_2: '爱旅游',
-  HEO_HERO_TITLE_3: '最新出品',
+  HEO_HERO_TITLE_3: '',
   HEO_HERO_TITLE_4: '全网最全最细致',
   HEO_HERO_TITLE_5: '倾心呈现：涤荡心灵的古建之旅',
   HEO_HERO_TITLE_LINK: 'https://luvlychina.com',
