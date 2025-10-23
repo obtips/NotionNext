@@ -18,11 +18,11 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '山西古建专版',
+  HEO_HERO_TITLE_1: '山西古建专题',
   HEO_HERO_TITLE_2: '爱旅游',
-  HEO_HERO_TITLE_3: 'LuvlyChina',
-  HEO_HERO_TITLE_4: '震撼人心',
-  HEO_HERO_TITLE_5: '最全最细致的山西旅游导览',
+  HEO_HERO_TITLE_3: '最新出品',
+  HEO_HERO_TITLE_4: '全网最全最细致',
+  HEO_HERO_TITLE_5: '倾心呈现：涤荡心灵的古建之旅',
   HEO_HERO_TITLE_LINK: 'https://luvlychina.com',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
